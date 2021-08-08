@@ -1,40 +1,54 @@
 .col-sm {
     border: solid 1px black;
+    background-color: khaki;
 }
 .col-sm-1 {
     border: solid 1px black;
     word-wrap: break-word;
+    background-color: lavender;
 }
 .col-sm-2 {
     border: solid 1px black;
+    background-color: lawngreen;
 }
 .col-sm-3 {
     border: solid 1px black;
+    background-color: lightblue;
 }
 .col-sm-4 {
     border: solid 1px black;
+    background-color: lightcoral;
 }
 .col-sm-5 {
     border: solid 1px black;
+    background-color: lightseagreen;
 }
 .col-sm-6 {
     border: solid 1px black;
+    background-color: maroon;
+    color: white;
 }
 .col-sm-7 {
     border: solid 1px black;
+    background-color: mediumpurple;
 }
 .col-sm-8 {
     border: solid 1px black;
+    background-color: moccasin;
 }
 .col-sm-9 {
     border: solid 1px black;
+    background-color: orange;
 }
 .col-sm-10 {
     border: solid 1px black;
+    background-color: peachpuff;
 }
 .col-sm-11 {
     border: solid 1px black;
+    background-color: red;
 }
 .col-sm-12 {
     border: solid 1px black;
+    background-color: sandybrown;
 }
